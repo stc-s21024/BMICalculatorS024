@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BMI計算機</string>
+    <string name="tv_weight">体重</string>
+    <string name="tv_height">身長</string>
+    <string name="tv_age">年齢</string>
+    <string name="tv_w">kg</string>
+    <string name="tv_h">cm</string>
+    <string name="tv_a">歳</string>
+    <string name="bt_calc">計算</string>
+    <string name="bt_clear">クリア</string>
+    <string name="result1">あなたの肥満度は</string>
+    <string name="result2">あなたの適正体重は</string>
+    <string name="dialog_title">警告</string>
+    <string name="dialog_msg">本アプリはBMIのみに対応しています。年齢が16歳未満の場合、正確な数値を算出できない可能性があります。</string>
+    <string name="dbt_ok">確認</string>
+    <string name="err">数値を入力してください。</string>
+    <string name="u16">---</string>
+    <string name="u16_toast">適正体重はBMI使用時のみ有効です。</string>
+</resources>

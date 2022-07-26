@@ -68,7 +68,7 @@ public class MainActivity extends AppCompatActivity {
                     boolean loopflag = false;
 
                     String DoO;
-                    
+
 //                    if(age<16) {
 //                        ConfirmDialogFragment dialogFragment = new ConfirmDialogFragment();
 //                        dialogFragment.show(getSupportFragmentManager(),"ConfirmDialogFragment");
